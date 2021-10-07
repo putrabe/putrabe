@@ -1,0 +1,40 @@
+bussy box
+
+
+busybox tcpsvd -vE 0.0.0.0 2121 busybox ftpd -w path/to/serve
+
+busybox httpd -p 0.0.0.0:8080
+
+
+.......
+
+
+
+termux sudo
+
+cd termux-sudo
+cat sudo > /data/data/com.termux/files/usr/bin/sudo
+chmod 700 /data/data/com.termux/files/usr/
+
+
+
+
+........
+
+
+
+ magisk
+
+
+git clone --recurse-submodules https://github.com/topjohnwu/Magisk.git
+
+
+
+.......
+
+
+ls
+
+....
+
+top
